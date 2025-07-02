@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/giyeon-hwang/handsome-gift-app/static/css/main.f855e6bc.css",
+    "main.js": "/giyeon-hwang/handsome-gift-app/static/js/main.211ff88b.js",
+    "static/js/453.b6ab1660.chunk.js": "/giyeon-hwang/handsome-gift-app/static/js/453.b6ab1660.chunk.js",
+    "index.html": "/giyeon-hwang/handsome-gift-app/index.html",
+    "main.f855e6bc.css.map": "/giyeon-hwang/handsome-gift-app/static/css/main.f855e6bc.css.map",
+    "main.211ff88b.js.map": "/giyeon-hwang/handsome-gift-app/static/js/main.211ff88b.js.map",
+    "453.b6ab1660.chunk.js.map": "/giyeon-hwang/handsome-gift-app/static/js/453.b6ab1660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.211ff88b.js"
+  ]
+}
